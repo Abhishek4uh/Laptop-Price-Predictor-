@@ -12,4 +12,4 @@
 > - Model Evaluation etc.
  
  
- ![](main/image/Projectimage.png)
+ ![](https://github.com/Abhishek4uh/Laptop-Price-Predictor-/blob/main/image/Project%20image.png)
