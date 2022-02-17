@@ -12,4 +12,4 @@
 > - Model Evaluation etc.
  
  
- ![](image//Projectimage.png)
+ ![](image/Projectimage.png)
