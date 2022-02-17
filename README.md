@@ -12,4 +12,4 @@
 > - Model Evaluation etc.
  
  
- ![](image/Projectimage.png)
+ ![](/blob/main/image/Project image.png)
