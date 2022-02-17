@@ -12,5 +12,5 @@
 > - Model Evaluation etc.
  
  #### How it's look like
- ![](https://github.com/Abhishek4uh/Laptop-Price-Predictor-/blob/main/image/Project%20image.png)
- ![](https://github.com/Abhishek4uh/Laptop-Price-Predictor-/blob/main/image/Project%20image-.png)
+ ![](https://github.com/Abhishek4uh/Laptop-Price-Predictor-/blob/main/image/project1.png)
+ ![](https://github.com/Abhishek4uh/Laptop-Price-Predictor-/blob/main/image/project2.png)
