@@ -12,7 +12,7 @@
 > - Model Evaluation etc.
 ```bash
 
- #### Libraries I used in this project with version:
+ Libraries I used in this project with version:
  - scikit-learn	1.0.2 
  - streamlit	1.4.0	
  - xgboost	1.5.2	
